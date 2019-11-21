@@ -24,5 +24,7 @@ def repeat2(ch, times):
     return s
 
 # demo2()
+# print("1", ebd='')
+# repeat("0", 100)
 print('1' + repeat2("0", 100))
 # demo add
